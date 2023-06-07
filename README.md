@@ -1,5 +1,6 @@
 # nanjing-lulc-modified-sankey
 
+[![DOI](https://zenodo.org/badge/DOI/10.3390/rs13040580.svg)](https://doi.org/10.3390/rs13040580)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4131521.svg)](https://doi.org/10.5281/zenodo.4131521)
 
 The modified Sankey chart to visualize the landuse/landcover change flow in Nanjing.
